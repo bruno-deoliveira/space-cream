@@ -38,7 +38,7 @@ $ git clone https://github.com/bruno-deoliveira/space-cream.git
 $ cd space-cream
 ```
 ## 📝 Licença
-Esse projeto está sob a licença [MIT](). Veja o arquivo LICENSE para mais detalhes.
+Esse projeto está sob a licença [MIT](https://github.com/bruno-deoliveira/space-cream/new/main). Veja o arquivo LICENSE para mais detalhes.
 
 ## 📞 Suporte
 Para suporte, mande um e-mail para brunoalmeida0805@gmail.com Grato!
