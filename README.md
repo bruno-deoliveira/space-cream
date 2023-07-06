@@ -32,6 +32,7 @@ Live server com VScode ou apenas clonar pasta e acessar o index.html
 - [Visual Studio Code - Vscode](https://code.visualstudio.com/)
 
 <h5> Clone o projeto e acesso a pasta. </h5>
+
 ```
 $ git clone https://github.com/bruno-deoliveira/space-cream.git
 $ cd space-cream
